@@ -5,9 +5,9 @@
  * Thanks for MaterializeCSS.com
  */
 
-.default_color{background-color: #1976D2 !important}
+.default_color{background-color: #77c159 !important}
 
-.default_color_text{color: #1976D2 !important}
+.default_color_text{color: #77c159 !important}
 
 .icon-block {
     padding: 0 15px;
@@ -32,7 +32,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(33,150,243,0.8);  
+    background-color: rgba(119,193,89,0.8)
 }
 
 #nav_f{
@@ -60,25 +60,25 @@
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
-.span_h2 {font-weight: 300;color: #2196F3;}
+.span_h2 {font-weight: 300;color: #77c159;}
 
-.text_b{color: #2196F3;}
+.text_b{color: #77c159;}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
-    color: #2196F3;
+    color: #77c159;
     font-size: 7rem;
     display: block;
     min-width: 250px;
 }
-.card-content a {color: #2196F3}
+.card-content a {color: #77c159}
 
-.card-content a:hover {color: #2196F3}
+.card-content a:hover {color: #77c159}
 
 #work, #team, #calendario{background: rgb(247, 247, 247);}
 
-.text_pink{color:#EF9A9A;}
+.text_pink{color:#77c159;}
 
 nav ul a {
     font-size: 1.2rem;
@@ -125,7 +125,7 @@ nav ul a {
 }
 
 .cd-headline.type .cd-words-wrapper.selected b {
-    color: #2196F3;
+    color: #77c159;
 }
 
 .cd-headline.type b {
